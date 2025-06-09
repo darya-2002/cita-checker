@@ -1,0 +1,1 @@
+worker: python cita_check_alarm.py
